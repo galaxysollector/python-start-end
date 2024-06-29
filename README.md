@@ -5,8 +5,8 @@ Python Code Template about Start and End
 
 ## Result of code
 
-### Windows
+### on Windows
 <img src="https://raw.githubusercontent.com/galaxysollector/python-start-end/main/python-start-end-windows.gif">
 
-### Linux
+### on Linux
 <img src="https://raw.githubusercontent.com/galaxysollector/python-start-end/main/python-start-end-linux.gif">
