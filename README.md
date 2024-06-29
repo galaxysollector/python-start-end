@@ -10,3 +10,9 @@ Python Code Template about Start and End
 
 ### on Linux
 <img src="https://raw.githubusercontent.com/galaxysollector/python-start-end/main/python-start-end-linux.gif">
+
+## Source code
+
+[For Windows](https://github.com/galaxysollector/python-start-end/blob/main/python-start-end-windows.py)
+
+[For Linux](https://github.com/galaxysollector/python-start-end/blob/main/python-start-end-linux.py)
